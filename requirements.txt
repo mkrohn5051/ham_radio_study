@@ -1,0 +1,2 @@
+- Python 3.8+ (tested on 3.12)
+- Built-in libraries only: `tkinter`, `csv`, `sys`, `os`
